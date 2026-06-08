@@ -1,2 +1,1 @@
-# forenanatamagotchi
-ola enana 
+
